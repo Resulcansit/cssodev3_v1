@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: block;
+    text-align: -webkit-center;
+    margin-top: 155px;
+}
+table ul{
+    list-style: none;
+    text-align: center;
+}
+table {
+    width: 90%;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border: "0" ;
+    margin: auto ;
+}
+
+.first-tr{background-color: rgb(39, 145, 132) ;
+}
+
+.box1{
+    background-color: rgb(39, 145, 132)  ;
+}
+.box2{
+    background-color: rgb(39, 145, 132);
+    
+}
+
+.box3{
+    background-color:  rgb(39, 145, 132) ;
+}
+.tr3 {
+    text-align: center;
+    margin-top: 50px;
+}
